@@ -1,11 +1,11 @@
 def sumar(numero1, numero2):
-	"""Suma dos numeros."""
-	return numero1 + numero2
+    """Suma dos numeros."""
+    return numero1 + numero2
 
 
 def restar(numero1, numero2):
-	"""Resta el segundo numero del primero."""
-	return numero1 - numero2
+    """Resta el segundo numero del primero."""
+    return numero1 - numero2
 
 
 numero1 = 10
